@@ -1,7 +1,4 @@
 # Z-Wallet Website
-<p align="center">
-<img align="center" src="image-rm/zwallet-logo.PNG" width="360" height="430">
-</p>
 
 ## Table of Contents
 - Introduction
@@ -36,12 +33,10 @@ VUE_APP_SERVICE_API=YOUR_HOST_URL
 `
 ## Screenshots
 <p align="center">
-<img src="image-rm/landingpage.PNG" width="260" height="130"> <img src="image-rm/login.PNG" width="260" height="130">
-<img src="image-rm/register.PNG" width="260" height="130"> <img src="image-rm/dashboard.PNG" width="260" height="130">
-<img src="image-rm/profile.PNG" width="260" height="130"> <img src="image-rm/updatephone.PNG" width="260" height="130">
-<img src="image-rm/transfer.PNG" width="260" height="130">
-<img src="image-rm/historytransaction.PNG" width="260" height="130">
-<img src="image-rm/uploadimage.PNG" width="260" height="130">
+<img src="image-rm/landingpage.png" width="260" height="130"> <img src="image-rm/login.png" width="260" height="130">
+<img src="image-rm/register.png" width="260" height="130"> <img src="image-rm/dashboard.png" width="260" height="130">
+<img src="image-rm/profile.png" width="260" height="130">
+
 </p>
 
 ### Related Project (Backend)
